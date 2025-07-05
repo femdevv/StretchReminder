@@ -1,0 +1,12 @@
+interval_minutes: 30
+shuffle: true
+no_repeat: true
+cycle_once: true
+messages:
+- "Your IDE wants a break, you should too!"
+- "Your brain runs better after a stretch break."
+- "Stretch time!"
+- "Health is a part of productivity!"
+- "You've been working hard, take a break!"
+- "Debug your posture!"
+- "Self-care is a part of the stack!"
